@@ -822,7 +822,7 @@ function taskRoutineBegin(snapshot) {
     routineTimer.reset();
     taskMaxDurationReached = false;
     // update component parameters for each repeat
-    imageStim.setImage('default.png');
+    imageStim.setImage(imagePath);
     // reset seen to account for continued clicks & clear times on/off
     seen.reset()
     // reset notSeen to account for continued clicks & clear times on/off
