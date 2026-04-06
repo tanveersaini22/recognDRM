@@ -269,7 +269,7 @@ async function experimentInit() {
     ori : 0.0, 
     pos : [0, 0.085], 
     draggable: false,
-    size : [0.5, 0.5],
+    size : [0.6, 0.6],
     color : new util.Color([1,1,1]), opacity : undefined,
     flipHoriz : false, flipVert : false,
     texRes : 128.0, interpolate : true, depth : 0.0 
