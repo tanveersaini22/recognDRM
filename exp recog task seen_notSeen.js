@@ -169,7 +169,7 @@ psychoJS.start({
     {'name': 'github_images/NS_lighthouse_1.jpg', 'path': 'github_images/NS_lighthouse_1.jpg'},
     {'name': 'github_images/NS_lighthouse_3.jpg', 'path': 'github_images/NS_lighthouse_3.jpg'},
     {'name': 'github_images/NS_lighthouse_5.jpg', 'path': 'github_images/NS_lighthouse_5.jpg'},
-    {'name': 'imagePath', 'path': 'https://pavlovia.org/assets/default/imagePath'},
+    {'name': 'default.png', 'path': 'https://pavlovia.org/assets/default/default.png'},
   ]
 });
 
